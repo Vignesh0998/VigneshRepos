@@ -1,0 +1,7 @@
+C:\Users\890088\source\repos\AbstractC\bin\Debug\AbstractC.exe.config
+C:\Users\890088\source\repos\AbstractC\bin\Debug\AbstractC.exe
+C:\Users\890088\source\repos\AbstractC\bin\Debug\AbstractC.pdb
+C:\Users\890088\source\repos\AbstractC\obj\Debug\AbstractC.csprojAssemblyReference.cache
+C:\Users\890088\source\repos\AbstractC\obj\Debug\AbstractC.csproj.CoreCompileInputs.cache
+C:\Users\890088\source\repos\AbstractC\obj\Debug\AbstractC.exe
+C:\Users\890088\source\repos\AbstractC\obj\Debug\AbstractC.pdb
